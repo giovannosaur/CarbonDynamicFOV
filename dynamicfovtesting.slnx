@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dynamicfovtesting/dynamicfovtesting.vcxproj" Id="cfe443ac-2306-414a-9605-7e7ebbded37a" />
+</Solution>
