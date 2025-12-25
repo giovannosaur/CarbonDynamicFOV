@@ -140,7 +140,7 @@ DWORD WINAPI HotkeyThread(void*)
             effectEnabled = !effectEnabled;
             PatchBytes(effectEnabled);
         }
-        Sleep(20);
+        Sleep(1);
     }
 }
 
@@ -156,3 +156,4 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD reason, LPVOID)
 
 //
 // 06-12-2025: update: no random stutters (patch original fov writer address)
+// 26-12-2025: update: sleep(1) instead of sleep(20) in hotkey input reading thread, apparently 20 made it unresponsive
