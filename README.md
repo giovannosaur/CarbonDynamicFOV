@@ -74,4 +74,5 @@ Each effect can be turned off individually by setting its `enabled` option to `0
 ## Credits and References
 - Zolika1351 - NFSC-SDK repo (references)
 - ARCHIE - NFSC Custom HUD (references)
+- Sh2dow - NFS.CameraMod (references)
 - ThirteenAG - Ultimate ASI Loader
