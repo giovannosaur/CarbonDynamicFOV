@@ -72,6 +72,6 @@ Each effect can be turned off individually by setting its `enabled` option to `0
 
 
 ## Credits and References
-Zolika1351 - NFSC-SDK repo (references)
-ARCHIE - NFSC Custom HUD (references)
-ThirteenAG - Ultimate ASI Loader
+- Zolika1351 - NFSC-SDK repo (references)
+- ARCHIE - NFSC Custom HUD (references)
+- ThirteenAG - Ultimate ASI Loader
